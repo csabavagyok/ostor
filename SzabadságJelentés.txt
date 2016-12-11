@@ -1,0 +1,5383 @@
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c3="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d3="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e3="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f3="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g3="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h3="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i3="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j3="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k3="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l3="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m3="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n3="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o3="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p3="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q3="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r3="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s3="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t3="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u3="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v3="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w3="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x3="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y3="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z3="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c3="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d3="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e3="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f3="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g3="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h3="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i3="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j3="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k3="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l3="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m3="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n3="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o3="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p3="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q3="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r3="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s3="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t3="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u3="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v3="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w3="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x3="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y3="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z3="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c3="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d3="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e3="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f3="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g3="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h3="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i3="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j3="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k3="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l3="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m3="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n3="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o3="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p3="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q3="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r3="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s3="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t3="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u3="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v3="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w3="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x3="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y3="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 3 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z3="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c5="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d5="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e5="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f5="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g5="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h5="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i5="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j5="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k5="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l5="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m5="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n5="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o5="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p5="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q5="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r5="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s5="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t5="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u5="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v5="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w5="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x5="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y5="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z5="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c5="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d5="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e5="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f5="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g5="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h5="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i5="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j5="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k5="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l5="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m5="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n5="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o5="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p5="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q5="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r5="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s5="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t5="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u5="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v5="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w5="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x5="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y5="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z5="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c5="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d5="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e5="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f5="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g5="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h5="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i5="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j5="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k5="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l5="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m5="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n5="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o5="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p5="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q5="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r5="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s5="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t5="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u5="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v5="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w5="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x5="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y5="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 5 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z5="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c7="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d7="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e7="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f7="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g7="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h7="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i7="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j7="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k7="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l7="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m7="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n7="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o7="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p7="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q7="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r7="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s7="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t7="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u7="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v7="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w7="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x7="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y7="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z7="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c7="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d7="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e7="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f7="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g7="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h7="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i7="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j7="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k7="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l7="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m7="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n7="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o7="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p7="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q7="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r7="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s7="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t7="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u7="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v7="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w7="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x7="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y7="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z7="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c7="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d7="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e7="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f7="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g7="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h7="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i7="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j7="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k7="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l7="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m7="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n7="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o7="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p7="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q7="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r7="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s7="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t7="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u7="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v7="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w7="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x7="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y7="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 7 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z7="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c9="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d9="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e9="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f9="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g9="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h9="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i9="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j9="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k9="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l9="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m9="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n9="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o9="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p9="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q9="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r9="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s9="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t9="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u9="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v9="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w9="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x9="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y9="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z9="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c9="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d9="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e9="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f9="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g9="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h9="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i9="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j9="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k9="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l9="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m9="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n9="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o9="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p9="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q9="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r9="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s9="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t9="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u9="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v9="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w9="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x9="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y9="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z9="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c9="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d9="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e9="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f9="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g9="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h9="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i9="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j9="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k9="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l9="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m9="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n9="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o9="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p9="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q9="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r9="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s9="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t9="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u9="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v9="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w9="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x9="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y9="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 9 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z9="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c11="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d11="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e11="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f11="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g11="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h11="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i11="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j11="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k11="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l11="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m11="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n11="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o11="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p11="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q11="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r11="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s11="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t11="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u11="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v11="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w11="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x11="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y11="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z11="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c11="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d11="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e11="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f11="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g11="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h11="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i11="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j11="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k11="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l11="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m11="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n11="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o11="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p11="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q11="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r11="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s11="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t11="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u11="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v11="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w11="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x11="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y11="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z11="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c11="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d11="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e11="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f11="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g11="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h11="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i11="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j11="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k11="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l11="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m11="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n11="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o11="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p11="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q11="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r11="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s11="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t11="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u11="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v11="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w11="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x11="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y11="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 11 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z11="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c13="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d13="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e13="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f13="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g13="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h13="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i13="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j13="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k13="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l13="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m13="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n13="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o13="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p13="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q13="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r13="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s13="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t13="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u13="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v13="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w13="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x13="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y13="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z13="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c13="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d13="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e13="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f13="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g13="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h13="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i13="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j13="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k13="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l13="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m13="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n13="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o13="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p13="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q13="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r13="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s13="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t13="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u13="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v13="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w13="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x13="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y13="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z13="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c13="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d13="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e13="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f13="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g13="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h13="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i13="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j13="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k13="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l13="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m13="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n13="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o13="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p13="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q13="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r13="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s13="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t13="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u13="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v13="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w13="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x13="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y13="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 13 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z13="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c15="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d15="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e15="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f15="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g15="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h15="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i15="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j15="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k15="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l15="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m15="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n15="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o15="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p15="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q15="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r15="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s15="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t15="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u15="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v15="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w15="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x15="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y15="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z15="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c15="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d15="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e15="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f15="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g15="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h15="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i15="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j15="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k15="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l15="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m15="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n15="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o15="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p15="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q15="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r15="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s15="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t15="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u15="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v15="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w15="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x15="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y15="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z15="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c15="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d15="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e15="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f15="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g15="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h15="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i15="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j15="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k15="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l15="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m15="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n15="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o15="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p15="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q15="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r15="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s15="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t15="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u15="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v15="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w15="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x15="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y15="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 15 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z15="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c17="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d17="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e17="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f17="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g17="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h17="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i17="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j17="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k17="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l17="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m17="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n17="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o17="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p17="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q17="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r17="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s17="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t17="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u17="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v17="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w17="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x17="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y17="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z17="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c17="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d17="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e17="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f17="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g17="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h17="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i17="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j17="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k17="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l17="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m17="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n17="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o17="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p17="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q17="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r17="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s17="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t17="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u17="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v17="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w17="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x17="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y17="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z17="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c17="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d17="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e17="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f17="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g17="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h17="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i17="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j17="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k17="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l17="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m17="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n17="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o17="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p17="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q17="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r17="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s17="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t17="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u17="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v17="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w17="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x17="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y17="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 17 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z17="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c19="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d19="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e19="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f19="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g19="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h19="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i19="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j19="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k19="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l19="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m19="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n19="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o19="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p19="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q19="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r19="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s19="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t19="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u19="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v19="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w19="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x19="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y19="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z19="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c19="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d19="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e19="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f19="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g19="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h19="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i19="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j19="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k19="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l19="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m19="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n19="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o19="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p19="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q19="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r19="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s19="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t19="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u19="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v19="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w19="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x19="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y19="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z19="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c19="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d19="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e19="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f19="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g19="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h19="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i19="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j19="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k19="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l19="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m19="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n19="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o19="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p19="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q19="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r19="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s19="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t19="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u19="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v19="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w19="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x19="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y19="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 19 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z19="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c21="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d21="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e21="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f21="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g21="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h21="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i21="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j21="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k21="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l21="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m21="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n21="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o21="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p21="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q21="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r21="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s21="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t21="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u21="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v21="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w21="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x21="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y21="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z21="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c21="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d21="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e21="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f21="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g21="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h21="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i21="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j21="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k21="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l21="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m21="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n21="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o21="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p21="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q21="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r21="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s21="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t21="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u21="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v21="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w21="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x21="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y21="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z21="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c21="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d21="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e21="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f21="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g21="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h21="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i21="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j21="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k21="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l21="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m21="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n21="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o21="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p21="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q21="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r21="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s21="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t21="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u21="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v21="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w21="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x21="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y21="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 21 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z21="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c23="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d23="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e23="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f23="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g23="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h23="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i23="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j23="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k23="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l23="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m23="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n23="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o23="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p23="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q23="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r23="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s23="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t23="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u23="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v23="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w23="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x23="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y23="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z23="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c23="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d23="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e23="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f23="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g23="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h23="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i23="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j23="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k23="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l23="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m23="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n23="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o23="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p23="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q23="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r23="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s23="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t23="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u23="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v23="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w23="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x23="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y23="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z23="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c23="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d23="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e23="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f23="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g23="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h23="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i23="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j23="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k23="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l23="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m23="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n23="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o23="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p23="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q23="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r23="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s23="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t23="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u23="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v23="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w23="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x23="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y23="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 23 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z23="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c25="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d25="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e25="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f25="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g25="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h25="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i25="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j25="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k25="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l25="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m25="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n25="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o25="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p25="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q25="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r25="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s25="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t25="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u25="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v25="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w25="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x25="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y25="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z25="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c25="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d25="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e25="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f25="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g25="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h25="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i25="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j25="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k25="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l25="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m25="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n25="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o25="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p25="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q25="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r25="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s25="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t25="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u25="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v25="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w25="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x25="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y25="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z25="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c25="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d25="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e25="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f25="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g25="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h25="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i25="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j25="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k25="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l25="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m25="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n25="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o25="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p25="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q25="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r25="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s25="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t25="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u25="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v25="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w25="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x25="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y25="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 25 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z25="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c27="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d27="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e27="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f27="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g27="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h27="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i27="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j27="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k27="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l27="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m27="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n27="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o27="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p27="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q27="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r27="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s27="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t27="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u27="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v27="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w27="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x27="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y27="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z27="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c27="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d27="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e27="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f27="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g27="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h27="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i27="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j27="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k27="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l27="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m27="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n27="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o27="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p27="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q27="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r27="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s27="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t27="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u27="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v27="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w27="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x27="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y27="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z27="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c27="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d27="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e27="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f27="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g27="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h27="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i27="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j27="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k27="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l27="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m27="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n27="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o27="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p27="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q27="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r27="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s27="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t27="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u27="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v27="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w27="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x27="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y27="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 27 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z27="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c29="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d29="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e29="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f29="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g29="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h29="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i29="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j29="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k29="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l29="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m29="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n29="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o29="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p29="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q29="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r29="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s29="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t29="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u29="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v29="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w29="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x29="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y29="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z29="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c29="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d29="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e29="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f29="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g29="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h29="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i29="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j29="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k29="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l29="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m29="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n29="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o29="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p29="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q29="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r29="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s29="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t29="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u29="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v29="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w29="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x29="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y29="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z29="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c29="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d29="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e29="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f29="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g29="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h29="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i29="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j29="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k29="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l29="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m29="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n29="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o29="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p29="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q29="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r29="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s29="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t29="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u29="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v29="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w29="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x29="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y29="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 29 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z29="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c31="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d31="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e31="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f31="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g31="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h31="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i31="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j31="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k31="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l31="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m31="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n31="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o31="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p31="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q31="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r31="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s31="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t31="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u31="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v31="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w31="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x31="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y31="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z31="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c31="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d31="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e31="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f31="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g31="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h31="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i31="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j31="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k31="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l31="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m31="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n31="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o31="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p31="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q31="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r31="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s31="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t31="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u31="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v31="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w31="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x31="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y31="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z31="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c31="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d31="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e31="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f31="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g31="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h31="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i31="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j31="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k31="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l31="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m31="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n31="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o31="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p31="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q31="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r31="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s31="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t31="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u31="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v31="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w31="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x31="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y31="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 31 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z31="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c33="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d33="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e33="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f33="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g33="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h33="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i33="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j33="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k33="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l33="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m33="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n33="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o33="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p33="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q33="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r33="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s33="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t33="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u33="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v33="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w33="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x33="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y33="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z33="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c33="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d33="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e33="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f33="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g33="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h33="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i33="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j33="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k33="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l33="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m33="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n33="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o33="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p33="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q33="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r33="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s33="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t33="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u33="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v33="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w33="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x33="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y33="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z33="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c33="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d33="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e33="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f33="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g33="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h33="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i33="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j33="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k33="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l33="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m33="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n33="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o33="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p33="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q33="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r33="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s33="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t33="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u33="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v33="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w33="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x33="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y33="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 33 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z33="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c35="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d35="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e35="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f35="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g35="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h35="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i35="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j35="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k35="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l35="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m35="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n35="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o35="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p35="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q35="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r35="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s35="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t35="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u35="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v35="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w35="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x35="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y35="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z35="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c35="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d35="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e35="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f35="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g35="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h35="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i35="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j35="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k35="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l35="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m35="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n35="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o35="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p35="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q35="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r35="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s35="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t35="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u35="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v35="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w35="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x35="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y35="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z35="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c35="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d35="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e35="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f35="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g35="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h35="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i35="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j35="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k35="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l35="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m35="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n35="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o35="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p35="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q35="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r35="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s35="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t35="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u35="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v35="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w35="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x35="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y35="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 35 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z35="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c37="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d37="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e37="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f37="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g37="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h37="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i37="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j37="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k37="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l37="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m37="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n37="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o37="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p37="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q37="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r37="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s37="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t37="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u37="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v37="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w37="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x37="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y37="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z37="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c37="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d37="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e37="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f37="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g37="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h37="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i37="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j37="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k37="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l37="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m37="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n37="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o37="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p37="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q37="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r37="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s37="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t37="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u37="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v37="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w37="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x37="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y37="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z37="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c37="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d37="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e37="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f37="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g37="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h37="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i37="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j37="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k37="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l37="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m37="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n37="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o37="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p37="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q37="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r37="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s37="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t37="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u37="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v37="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w37="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x37="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y37="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 37 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z37="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c39="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d39="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e39="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f39="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g39="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h39="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i39="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j39="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k39="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l39="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m39="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n39="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o39="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p39="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q39="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r39="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s39="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t39="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u39="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v39="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w39="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x39="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y39="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z39="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c39="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d39="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e39="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f39="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g39="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h39="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i39="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j39="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k39="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l39="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m39="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n39="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o39="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p39="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q39="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r39="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s39="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t39="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u39="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v39="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w39="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x39="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y39="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z39="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c39="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d39="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e39="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f39="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g39="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h39="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i39="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j39="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k39="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l39="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m39="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n39="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o39="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p39="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q39="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r39="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s39="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t39="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u39="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v39="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w39="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x39="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y39="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 39 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z39="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c41="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d41="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e41="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f41="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g41="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h41="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i41="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j41="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k41="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l41="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m41="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n41="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o41="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p41="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q41="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r41="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s41="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t41="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u41="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v41="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w41="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x41="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y41="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z41="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c41="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d41="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e41="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f41="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g41="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h41="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i41="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j41="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k41="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l41="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m41="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n41="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o41="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p41="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q41="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r41="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s41="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t41="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u41="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v41="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w41="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x41="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y41="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z41="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c41="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d41="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e41="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f41="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g41="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h41="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i41="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j41="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k41="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l41="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m41="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n41="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o41="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p41="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q41="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r41="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s41="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t41="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u41="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v41="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w41="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x41="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y41="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 41 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z41="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c43="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d43="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e43="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f43="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g43="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h43="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i43="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j43="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k43="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l43="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m43="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n43="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o43="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p43="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q43="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r43="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s43="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t43="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u43="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v43="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w43="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x43="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y43="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z43="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c43="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d43="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e43="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f43="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g43="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h43="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i43="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j43="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k43="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l43="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m43="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n43="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o43="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p43="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q43="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r43="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s43="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t43="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u43="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v43="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w43="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x43="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y43="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z43="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c43="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d43="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e43="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f43="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g43="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h43="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i43="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j43="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k43="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l43="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m43="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n43="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o43="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p43="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q43="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r43="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s43="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t43="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u43="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v43="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w43="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x43="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y43="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 43 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z43="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c45="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d45="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e45="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f45="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g45="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h45="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i45="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j45="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k45="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l45="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m45="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n45="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o45="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p45="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q45="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r45="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s45="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t45="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u45="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v45="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w45="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x45="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y45="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z45="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c45="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d45="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e45="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f45="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g45="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h45="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i45="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j45="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k45="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l45="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m45="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n45="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o45="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p45="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q45="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r45="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s45="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t45="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u45="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v45="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w45="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x45="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y45="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z45="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c45="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d45="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e45="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f45="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g45="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h45="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i45="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j45="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k45="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l45="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m45="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n45="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o45="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p45="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q45="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r45="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s45="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t45="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u45="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v45="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w45="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x45="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y45="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 45 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z45="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c47="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d47="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e47="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f47="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g47="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h47="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i47="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j47="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k47="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l47="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m47="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n47="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o47="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p47="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q47="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r47="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s47="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t47="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u47="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v47="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w47="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x47="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y47="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z47="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c47="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d47="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e47="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f47="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g47="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h47="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i47="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j47="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k47="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l47="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m47="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n47="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o47="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p47="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q47="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r47="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s47="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t47="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u47="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v47="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w47="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x47="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y47="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z47="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c47="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d47="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e47="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f47="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g47="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h47="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i47="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j47="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k47="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l47="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m47="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n47="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o47="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p47="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q47="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r47="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s47="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t47="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u47="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v47="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w47="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x47="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y47="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 47 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z47="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c49="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d49="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e49="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f49="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g49="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h49="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i49="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j49="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k49="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l49="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m49="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n49="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o49="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p49="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q49="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r49="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s49="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t49="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u49="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v49="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w49="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x49="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y49="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z49="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c49="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d49="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e49="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f49="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g49="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h49="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i49="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j49="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k49="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l49="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m49="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n49="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o49="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p49="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q49="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r49="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s49="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t49="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u49="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v49="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w49="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x49="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y49="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z49="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c49="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d49="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e49="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f49="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g49="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h49="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i49="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j49="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k49="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l49="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m49="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n49="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o49="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p49="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q49="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r49="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s49="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t49="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$u49="SZ";TISZT!$u$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$v49="SZ";TISZT!$v$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$w49="SZ";TISZT!$w$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$x49="SZ";TISZT!$x$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$y49="SZ";TISZT!$y$1&",";"")
+====TISZT====Sor#: 49 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$z49="SZ";TISZT!$z$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$c51="SZ";ÁPOLÓ!$c$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$d51="SZ";ÁPOLÓ!$d$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$e51="SZ";ÁPOLÓ!$e$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$f51="SZ";ÁPOLÓ!$f$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$g51="SZ";ÁPOLÓ!$g$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$h51="SZ";ÁPOLÓ!$h$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$i51="SZ";ÁPOLÓ!$i$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$j51="SZ";ÁPOLÓ!$j$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$k51="SZ";ÁPOLÓ!$k$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$l51="SZ";ÁPOLÓ!$l$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$m51="SZ";ÁPOLÓ!$m$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$n51="SZ";ÁPOLÓ!$n$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$o51="SZ";ÁPOLÓ!$o$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$p51="SZ";ÁPOLÓ!$p$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$q51="SZ";ÁPOLÓ!$q$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$r51="SZ";ÁPOLÓ!$r$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$s51="SZ";ÁPOLÓ!$s$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$t51="SZ";ÁPOLÓ!$t$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$u51="SZ";ÁPOLÓ!$u$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$v51="SZ";ÁPOLÓ!$v$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$w51="SZ";ÁPOLÓ!$w$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$x51="SZ";ÁPOLÓ!$x$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$y51="SZ";ÁPOLÓ!$y$1&",";"")
+====ÁPOLÓ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(ÁPOLÓ!$z51="SZ";ÁPOLÓ!$z$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$c51="SZ";GÉPKOCSIVEZETŐ!$c$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$d51="SZ";GÉPKOCSIVEZETŐ!$d$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$e51="SZ";GÉPKOCSIVEZETŐ!$e$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$f51="SZ";GÉPKOCSIVEZETŐ!$f$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$g51="SZ";GÉPKOCSIVEZETŐ!$g$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$h51="SZ";GÉPKOCSIVEZETŐ!$h$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$i51="SZ";GÉPKOCSIVEZETŐ!$i$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$j51="SZ";GÉPKOCSIVEZETŐ!$j$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$k51="SZ";GÉPKOCSIVEZETŐ!$k$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$l51="SZ";GÉPKOCSIVEZETŐ!$l$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$m51="SZ";GÉPKOCSIVEZETŐ!$m$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$n51="SZ";GÉPKOCSIVEZETŐ!$n$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$o51="SZ";GÉPKOCSIVEZETŐ!$o$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$p51="SZ";GÉPKOCSIVEZETŐ!$p$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$q51="SZ";GÉPKOCSIVEZETŐ!$q$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$r51="SZ";GÉPKOCSIVEZETŐ!$r$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$s51="SZ";GÉPKOCSIVEZETŐ!$s$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$t51="SZ";GÉPKOCSIVEZETŐ!$t$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$u51="SZ";GÉPKOCSIVEZETŐ!$u$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$v51="SZ";GÉPKOCSIVEZETŐ!$v$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$w51="SZ";GÉPKOCSIVEZETŐ!$w$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$x51="SZ";GÉPKOCSIVEZETŐ!$x$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$y51="SZ";GÉPKOCSIVEZETŐ!$y$1&",";"")
+====GÉPÉSZ====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(GÉPKOCSIVEZETŐ!$z51="SZ";GÉPKOCSIVEZETŐ!$z$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$c51="SZ";TISZT!$c$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$d51="SZ";TISZT!$d$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$e51="SZ";TISZT!$e$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$f51="SZ";TISZT!$f$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$g51="SZ";TISZT!$g$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$h51="SZ";TISZT!$h$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$i51="SZ";TISZT!$i$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$j51="SZ";TISZT!$j$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$k51="SZ";TISZT!$k$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$l51="SZ";TISZT!$l$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$m51="SZ";TISZT!$m$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$n51="SZ";TISZT!$n$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$o51="SZ";TISZT!$o$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$p51="SZ";TISZT!$p$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$q51="SZ";TISZT!$q$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$r51="SZ";TISZT!$r$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$s51="SZ";TISZT!$s$1&",";"")
+====TISZT====Sor#: 51 ====
+
+=ÖSSZEFŰZ(HA(TISZT!$t51="SZ";TISZT!$t$1&",";"")
+====TISZT====Sor#: 51 ====
